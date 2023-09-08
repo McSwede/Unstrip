@@ -1,0 +1,5 @@
+name: Unstrip
+version: '${version}'
+main: me.mcswede.unstrip.Unstrip
+api-version: '1.20'
+authors: [McSwede]
